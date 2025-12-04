@@ -100,8 +100,8 @@ Full list available at **[My Google Scholar](#)**
 # 🏫 Educations  
 *(根据你的情况修改)*
 
-- *20xx – 20xx*, Ph.D., Field, University  
-- *20xx – 20xx*, Master, Field, University  
+- *20xx – 20xx*, Ph.D., Field, Shenzhen University  
+- *20xx – 20xx*, Master, Field, Dalian Jiaotong University  
 - *20xx – 20xx*, Bachelor, Field, University  
 
 ---
