@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiuqiang He"
+title                    : "Mengchao Guo"
 description              : ""
 repository               : "guo-mengchao/guo-mengchao.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiuqiang He"
+  name             : "engchao Guo"
   avatar           : "images/hexiuqiang2.png"
   bio              : "Distinguished Professor at the College of Artificial Intelligence, Shenzhen Technology University (SZTU)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3lprwmsAAAAJ"
-  email            : "he.xiuqiang@gmail.com"
+  email            : "gmc9199@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
