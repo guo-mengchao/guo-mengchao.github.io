@@ -23,8 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mengchao Guo"
-  name_zh          : "郭孟超"
+  name             : "Mengchao Guo（郭孟超）"
   avatar           : "images/gmc.jpg"
   bio              : "Shenzhen University"
   location         : "Shenzhen, China"

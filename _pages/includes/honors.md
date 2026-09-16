@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 
 * *2025* Outstanding Master's Graduate of Liaoning Province（辽宁省优秀硕士毕业生）.
 * *2025* Outstanding Master's Thesis（优秀硕士学位论文）.
