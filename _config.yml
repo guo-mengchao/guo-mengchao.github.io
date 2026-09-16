@@ -9,8 +9,8 @@
 title                    : "郭孟超 | Mengchao Guo"
 description              : "深圳大学博士研究生 · 视频语义通信与计算机视觉"
 url                      : "https://guo-mengchao.github.io"
-baseurl                  : "/guomengchao.github.io"
-repository               : "guo-mengchao/guomengchao.github.io"
+baseurl                  : ""
+repository               : "guo-mengchao/guo-mengchao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
