@@ -1,6 +1,5 @@
 # 🎖 Honors and Awards
 
-* *2026.09* 2026 China Association for Science and Technology Young Scientific and Technological Talents Development Program - Special Doctoral Initiative（2026年度中国科协青年科技人才培育工程博士生专项计划）.
 * *2025* Outstanding Master's Graduate of Liaoning Province（辽宁省优秀硕士毕业生）.
 * *2025* Outstanding Master's Thesis（优秀硕士学位论文）.
 * *2024* National Scholarship for Graduate Students（研究生国家奖学金）.
