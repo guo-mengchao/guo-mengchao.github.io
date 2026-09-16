@@ -1,25 +1,15 @@
-# main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Group"
-    url: "/#-group"
-
-  - title: "Services"
-    url: "/#-services"
-
-  - title: "Awards"
-    url: "/#-awards"
-
-  - title: "Teaching"
-    url: "/#-teaching"
-
-  - title: "Others"
-    url: "/#-educations"
+  - title: "关于"
+    url: "#about-me"
+  - title: "研究方向"
+    url: "#research"
+  - title: "最新动态"
+    url: "#news"
+  - title: "论文发表"
+    url: "#publications"
+  - title: "专利成果"
+    url: "#patents"
+  - title: "教育经历"
+    url: "#education"
+  - title: "荣誉奖励"
+    url: "#awards"
