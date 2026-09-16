@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "郭孟超 | Mengchao Guo"
-description              : "深圳大学博士研究生 · 视频语义通信与计算机视觉"
+title                    : "Mengchao Guo（郭孟超）"
+description              : "Ph.D. student in Communication Engineering at Shenzhen University, focusing on semantic communication, deep joint source-channel coding, and generative video transmission."
 url                      : "https://guo-mengchao.github.io"
 baseurl                  : ""
 repository               : "guo-mengchao/guo-mengchao.github.io"
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "郭孟超 Mengchao Guo"
+  name             : "Mengchao Guo（郭孟超）"
   avatar           : "images/gmc.jpg"
-  bio              : "深圳大学博士研究生 · 视频语义通信 / 计算机视觉"
+  bio              : "Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -39,15 +39,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "guo-mengchao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/243/5988"
+  orcid            : "https://orcid.org/0009-0009-3257-2998"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
