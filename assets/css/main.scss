@@ -42,6 +42,14 @@
 
 .author__avatar img { width: 100%; max-width: 175px; aspect-ratio: 1 / 1; object-fit: contain; object-position: center; background: #fff; }
 
+/* Distinct colors for the profile links, including the compact mobile links. */
+.profile_box .fa-map-marker { color: #0d9488; }
+.profile_box .fa-envelope { color: #d95b61; }
+.profile_box .ai-dblp { color: #d78224; }
+.profile_box .fa-github { color: #7359a6; }
+.profile_box .fa-graduation-cap { color: #4285f4; }
+.profile_box .ai-orcid-square { color: #79a520; }
+
 .paper-box {
     display: flex;
     justify-content: left;
